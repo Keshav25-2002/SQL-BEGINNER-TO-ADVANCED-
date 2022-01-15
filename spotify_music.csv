@@ -1,0 +1,287 @@
+,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+0,Doctor (Original Background Score),1,2sW8zbqjQsOnwTcjC2JWBO,Doctor Theme - Background Score,spotify:track:2sW8zbqjQsOnwTcjC2JWBO,0.54,0.544,0.907,0.914,0.311,-7.036,0.217,194.15,0.337,57
+1,Doctor (Original Background Score),2,0BnyyBXbfxHZqGFHHrLtPW,The Family - Background Score,spotify:track:0BnyyBXbfxHZqGFHHrLtPW,0.804,0.898,0.4,0.565,0.278,-10.017,0.0912,115.025,0.671,35
+2,Doctor (Original Background Score),3,6WOogz2odCa6Udwfn4v9kK,Varun Intro - Background Score,spotify:track:6WOogz2odCa6Udwfn4v9kK,0.208,0.481,0.959,0.95,0.119,-7.771,0.0805,97.063,0.101,40
+3,Doctor (Original Background Score),4,3I2wKS3eeqUfVupU27RuG0,Hand Game - Background Score,spotify:track:3I2wKS3eeqUfVupU27RuG0,0.409,0.751,0.694,0.68,0.136,-15.678,0.215,87.998,0.427,33
+4,Doctor (Original Background Score),5,2Y2rSNGhQGW7XOt9dO5sLK,The Twins - Background Score,spotify:track:2Y2rSNGhQGW7XOt9dO5sLK,0.0836,0.525,0.518,0.92,0.0976,-9.281,0.0394,175.792,0.0905,34
+5,Doctor (Original Background Score),6,0MDMCbOT6Gb5IRgLk2PbWn,Metro Train Fight - Background Score,spotify:track:0MDMCbOT6Gb5IRgLk2PbWn,0.00597,0.643,0.788,0.424,0.363,-7.995,0.0558,123.995,0.598,36
+6,Doctor (Original Background Score),7,39WyZxR4qerINhYeZVMniS,Varun Fights - Background Score,spotify:track:39WyZxR4qerINhYeZVMniS,0.0204,0.601,0.812,0.924,0.401,-9.432,0.0534,126.98,0.215,36
+7,Doctor (Original Background Score),8,6blum2krUyz9oBcFqohSUY,Terry Theme - Background Score,spotify:track:6blum2krUyz9oBcFqohSUY,0.111,0.767,0.778,0.823,0.132,-10.047,0.0513,145.47,0.575,34
+8,Doctor (Original Background Score),9,1EBFhYnJhpiWx3lxQ2u59q,Daughter Feels - Background Score,spotify:track:1EBFhYnJhpiWx3lxQ2u59q,0.333,0.349,0.671,0.00637,0.34,-9.003,0.0478,120.027,0.278,44
+9,Doctor (Original Background Score),10,4p46drbsPctvyMpjxpk6XN,Climax Fight - Background Score,spotify:track:4p46drbsPctvyMpjxpk6XN,0.164,0.497,0.867,0.0812,0.319,-8.848,0.0601,96.975,0.342,47
+10,Master (Original Background Score),1,7KqmDr9lTjwXnX5krMIKiC,JD Intro - Background Score,spotify:track:7KqmDr9lTjwXnX5krMIKiC,0.00898,0.656,0.925,0.0101,0.108,-8.13,0.093,100.032,0.0793,54
+11,Master (Original Background Score),2,4BRWG0mQqol30OG5xLIplN,Master the Blaster - Background Score,spotify:track:4BRWG0mQqol30OG5xLIplN,0.308,0.748,0.815,0.0,0.171,-1.396,0.122,99.978,0.897,50
+12,Master (Original Background Score),3,4SwrKUWClv1t4HqK5SeMCo,Bhavani Theme - Background Score,spotify:track:4SwrKUWClv1t4HqK5SeMCo,0.0856,0.511,0.817,0.889,0.282,-8.687,0.0303,97.026,0.198,48
+13,Master (Original Background Score),4,0GDB5kRQ4O1sJomQdA1Rxy,JD the Alcoholic - Background Score,spotify:track:0GDB5kRQ4O1sJomQdA1Rxy,0.151,0.619,0.789,0.789,0.0971,-8.301,0.0591,168.098,0.526,39
+14,Master (Original Background Score),5,30oUtCMecpa3hgGQ7KpGKN,College Election - Background Score,spotify:track:30oUtCMecpa3hgGQ7KpGKN,0.00256,0.75,0.806,0.845,0.471,-8.971,0.0571,115.019,0.126,35
+15,Master (Original Background Score),6,7jhpiOIfz5Gt5Ul78BZ8Bo,College Fight - Background Score,spotify:track:7jhpiOIfz5Gt5Ul78BZ8Bo,0.147,0.646,0.639,0.866,0.26,-9.054,0.11,133.071,0.387,36
+16,Master (Original Background Score),7,3Q1Y225WQePSl9aFuF30MX,JD Badass Theme - Background Score,spotify:track:3Q1Y225WQePSl9aFuF30MX,0.00401,0.538,0.766,0.723,0.142,-9.278,0.0377,83.988,0.422,41
+17,Master (Original Background Score),8,4IGNnngchH8Y9kTf5DhC2v,Pona Pogattum Sad - Background Score,spotify:track:4IGNnngchH8Y9kTf5DhC2v,0.919,0.263,0.151,0.975,0.116,-18.567,0.038,109.946,0.0604,35
+18,Master (Original Background Score),9,2izajRYIBpmGrl3Nk0WtDa,The Letter - Background Score,spotify:track:2izajRYIBpmGrl3Nk0WtDa,0.64,0.204,0.376,0.873,0.0911,-12.143,0.0355,122.531,0.137,30
+19,Master (Original Background Score),10,58rVdRJUkvtupU7J3UIrvB,Interval Fight - Background Score,spotify:track:58rVdRJUkvtupU7J3UIrvB,0.392,0.621,0.964,0.794,0.354,-7.654,0.0724,99.961,0.511,44
+20,Master (Original Background Score),11,33rOpV31q4YWu1pF1Mlt1d,I'm Waiting - Background Score,spotify:track:33rOpV31q4YWu1pF1Mlt1d,0.0982,0.551,0.407,0.507,0.0922,-11.898,0.0392,99.976,0.0885,40
+21,Master (Original Background Score),12,4q3Bm9PeBVLQkPEHwinDOI,Jail Chaos - Background Score,spotify:track:4q3Bm9PeBVLQkPEHwinDOI,0.563,0.602,0.634,0.93,0.0722,-12.073,0.0351,141.983,0.279,30
+22,Master (Original Background Score),13,4U8wO7PDX3fz9L3Ne1U0eg,Vaathi Kabbadi - Background Score,spotify:track:4U8wO7PDX3fz9L3Ne1U0eg,0.157,0.631,0.974,0.838,0.115,-4.51,0.109,102.012,0.459,40
+23,Master (Original Background Score),14,4nP8327VfYeFmELBZv8dDV,Bucket List - Background Score,spotify:track:4nP8327VfYeFmELBZv8dDV,0.055,0.662,0.774,0.887,0.14,-9.381,0.0413,159.014,0.603,37
+24,Master (Original Background Score),15,6dtP317OpBo7RTQU1HkVAh,Archery Fight - Background Score,spotify:track:6dtP317OpBo7RTQU1HkVAh,0.00165,0.462,0.931,0.588,0.152,-11.445,0.0491,123.969,0.054,30
+25,Master (Original Background Score),16,0NymJe5GIKYR5H1ObboO2l,JD Vs. Bhavani - Background Score,spotify:track:0NymJe5GIKYR5H1ObboO2l,0.31,0.61,0.913,0.94,0.0781,-7.782,0.204,172.443,0.665,42
+26,Master (Kannada) [Original Motion Picture Soundtrack],1,0cOFaWsYdce8kDvgZkiR6B,Master Coming - Kannada,spotify:track:0cOFaWsYdce8kDvgZkiR6B,0.269,0.677,0.897,0.413,0.0521,-5.693,0.239,165.051,0.515,17
+27,Master (Kannada) [Original Motion Picture Soundtrack],2,5gGwYoVlpQRuPef8UsOZBX,Avana Kanna Kandaga,spotify:track:5gGwYoVlpQRuPef8UsOZBX,0.387,0.761,0.862,0.000696,0.0686,-3.667,0.145,90.016,0.613,11
+28,Master (Kannada) [Original Motion Picture Soundtrack],3,3hz9g1a1S3Oia0r1QCvpQg,Putta Story,spotify:track:3hz9g1a1S3Oia0r1QCvpQg,0.432,0.671,0.634,0.0,0.125,-5.831,0.108,104.813,0.839,20
+29,Master (Kannada) [Original Motion Picture Soundtrack],4,2uqI9WsV7BJVlYGWTncV64,Quit Maad Maga,spotify:track:2uqI9WsV7BJVlYGWTncV64,0.134,0.574,0.818,0.0,0.307,-4.865,0.181,77.003,0.632,8
+30,Master (Kannada) [Original Motion Picture Soundtrack],5,2VIojSGbfydMtces8DqXgg,Beat of Master - Instrumental,spotify:track:2VIojSGbfydMtces8DqXgg,0.261,0.843,0.961,0.892,0.0824,-5.089,0.111,172.428,0.544,10
+31,Master (Kannada) [Original Motion Picture Soundtrack],6,4lu8s0A6EGLg4DpNgy4fpm,Dolu Thattu Barabbara,spotify:track:4lu8s0A6EGLg4DpNgy4fpm,0.163,0.766,0.78,1.82e-05,0.194,-5.416,0.124,145.564,0.927,9
+32,Master (Kannada) [Original Motion Picture Soundtrack],7,2V9QCcJlnpbeML96L5WiHg,Manase Karagada,spotify:track:2V9QCcJlnpbeML96L5WiHg,0.808,0.645,0.427,0.00686,0.0805,-9.348,0.0357,142.489,0.655,32
+33,Vijay the Master (Original Motion Picture Soundtrack),1,5sPsIuFubkgvjzcQbKAd8g,Master Coming,spotify:track:5sPsIuFubkgvjzcQbKAd8g,0.301,0.654,0.943,0.155,0.0457,-3.183,0.252,164.962,0.559,32
+34,Vijay the Master (Original Motion Picture Soundtrack),2,41e2tqnhZsrt4gNZYEaC9i,Woh Muskaana Aakhon Ka,spotify:track:41e2tqnhZsrt4gNZYEaC9i,0.212,0.833,0.891,0.0,0.0705,-3.052,0.303,90.016,0.569,20
+35,Vijay the Master (Original Motion Picture Soundtrack),3,22wMK0TADCA8QAr3hc1QF9,Chhoti Story,spotify:track:22wMK0TADCA8QAr3hc1QF9,0.327,0.711,0.645,0.0,0.0837,-6.658,0.0867,104.919,0.86,28
+36,Vijay the Master (Original Motion Picture Soundtrack),4,2zsykrIHQEqvyBhinVEp0x,Quit Karna,spotify:track:2zsykrIHQEqvyBhinVEp0x,0.211,0.487,0.773,0.0,0.31,-3.961,0.144,154.011,0.554,17
+37,Vijay the Master (Original Motion Picture Soundtrack),5,1IIlBwDIq49aj3S4JwAzQp,Beat of Master,spotify:track:1IIlBwDIq49aj3S4JwAzQp,0.257,0.843,0.961,0.895,0.0876,-5.095,0.11,172.429,0.545,17
+38,Vijay the Master (Original Motion Picture Soundtrack),6,0lhRjgj0iVeEiQfGqxKBPT,Dhool Tash Baja Baja,spotify:track:0lhRjgj0iVeEiQfGqxKBPT,0.155,0.741,0.799,0.0,0.322,-5.034,0.262,145.035,0.89,18
+39,Vijay the Master (Original Motion Picture Soundtrack),7,483pirY5DVsEzVNCLe2Gi2,Roshini Se Bhar Utah,spotify:track:483pirY5DVsEzVNCLe2Gi2,0.498,0.607,0.436,0.00243,0.226,-9.815,0.0348,142.784,0.56,21
+40,Vijay the Master (Original Motion Picture Soundtrack),8,2KesTqotSZIqZAHAqEjXRx,Master Raid,spotify:track:2KesTqotSZIqZAHAqEjXRx,0.17,0.787,0.756,0.0,0.123,-11.176,0.129,100.007,0.683,20
+41,Master (Telugu) [Original Motion Picture Soundtrack],1,7LSlA4HRXqhJJeQjq3Hm4R,Master Coming,spotify:track:7LSlA4HRXqhJJeQjq3Hm4R,0.281,0.676,0.946,0.639,0.0454,-3.181,0.237,82.464,0.519,57
+42,Master (Telugu) [Original Motion Picture Soundtrack],2,3PzMzcX67A5W279V6nuydF,Andham Vadi Choopera,spotify:track:3PzMzcX67A5W279V6nuydF,0.3,0.779,0.842,3.97e-06,0.0735,-3.977,0.199,90.016,0.66,40
+43,Master (Telugu) [Original Motion Picture Soundtrack],3,0fcIaCRzDFyHgn5is59YRo,Chitti Story,spotify:track:0fcIaCRzDFyHgn5is59YRo,0.412,0.703,0.631,0.0,0.137,-6.216,0.102,104.87,0.78,44
+44,Master (Telugu) [Original Motion Picture Soundtrack],4,6lIh9MoAfzuukNqzNSQHAp,Quit Chyyara,spotify:track:6lIh9MoAfzuukNqzNSQHAp,0.193,0.491,0.827,0.0,0.295,-3.664,0.178,154.163,0.618,33
+45,Master (Telugu) [Original Motion Picture Soundtrack],5,5GwGpq7KklAb4HgKqcdPEN,Beat of Master - Instrumental,spotify:track:5GwGpq7KklAb4HgKqcdPEN,0.257,0.853,0.961,0.895,0.0837,-5.095,0.105,172.501,0.539,30
+46,Master (Telugu) [Original Motion Picture Soundtrack],6,3Egnsr3uwVkfgrvdmaTGNi,Modhalettu,spotify:track:3Egnsr3uwVkfgrvdmaTGNi,0.162,0.769,0.768,6.87e-05,0.176,-5.654,0.141,145.443,0.938,31
+47,Master (Telugu) [Original Motion Picture Soundtrack],7,6wY71tcximeVlISUhMgQYl,Letha Letha Gundelu,spotify:track:6wY71tcximeVlISUhMgQYl,0.747,0.696,0.47,0.000177,0.0829,-7.94,0.0372,142.414,0.713,41
+48,Master (Telugu) [Original Motion Picture Soundtrack],8,5mq8OkA3CuO4gnP7hfl3dz,Master Raid,spotify:track:5mq8OkA3CuO4gnP7hfl3dz,0.185,0.793,0.931,7.3e-06,0.0926,-4.239,0.128,100.047,0.664,40
+49,Voice of Ani,1,34hssXUwRCru1RbfxCWLth,"Ey Inge Paaru (From ""Velaiyilla Pattathari"")",spotify:track:34hssXUwRCru1RbfxCWLth,0.0652,0.643,0.834,4.19e-05,0.612,-4.104,0.182,189.998,0.872,17
+50,Voice of Ani,2,4kR4T5BFpb6unE1ivbgDfI,"I'm So cool (From ""Kakki Sattai"")",spotify:track:4kR4T5BFpb6unE1ivbgDfI,0.466,0.601,0.876,0.0,0.18,-4.733,0.209,87.6,0.819,16
+51,Voice of Ani,3,56bFCJnXMcET6BwVZyJaGO,"Thangamey (From ""Naanum Rowdy Dhaan"")",spotify:track:56bFCJnXMcET6BwVZyJaGO,0.5,0.586,0.907,0.0,0.243,-5.774,0.0773,99.909,0.627,18
+52,Voice of Ani,4,3HTKAcHglpt5HVwJKla9aT,"Kadhal Kan Kattudhe (From ""Kakki Sattai"")",spotify:track:3HTKAcHglpt5HVwJKla9aT,0.572,0.615,0.537,0.0,0.136,-4.951,0.0295,139.629,0.497,16
+53,Voice of Ani,5,2XMJ3A06ex0UI9JRPeOYrQ,"Neeyum Naanum (From ""Naanum Rowdy Dhaan"")",spotify:track:2XMJ3A06ex0UI9JRPeOYrQ,0.101,0.572,0.62,0.00488,0.113,-9.949,0.0436,157.968,0.345,15
+54,Voice of Ani,6,3K1ee0j1artF9aL9M7cZst,"Udhungada Sangu (From ""Velaiyilla Pattathari"")",spotify:track:3K1ee0j1artF9aL9M7cZst,0.214,0.519,0.806,0.0,0.064,-5.552,0.118,171.942,0.714,17
+55,Voice of Ani,7,3LSuyxVFp5sLUdZIflhsWs,"Shake That (From ""Kakki Sattai"")",spotify:track:3LSuyxVFp5sLUdZIflhsWs,0.181,0.833,0.861,4.57e-05,0.277,-4.22,0.185,99.955,0.816,14
+56,Voice of Ani,8,5ktYErU0EKwvpen8FDbnaT,"Varavaa Varavaa (From ""Naanum Rowdy Dhaan"")",spotify:track:5ktYErU0EKwvpen8FDbnaT,0.121,0.764,0.805,0.0,0.044,-7.279,0.073,129.989,0.659,19
+57,Voice of Ani,9,3rtpnMDvzcE0FRHALqaX3M,"VIP Title Song (From ""Velaiyilla Pattathari"")",spotify:track:3rtpnMDvzcE0FRHALqaX3M,0.00719,0.547,0.931,0.0,0.88,-4.364,0.0879,89.999,0.74,16
+58,Velaiyilla Pattathari (Original Sound Track),1,3HCKgCWkVaozsRZcW1pkMP,VIP Theme,spotify:track:3HCKgCWkVaozsRZcW1pkMP,0.00926,0.572,0.579,0.556,0.513,-8.53,0.108,59.964,0.497,2
+59,Velaiyilla Pattathari (Original Sound Track),2,1DjWtO4F9X2wH59D6sV3Nz,The Narration Of Raghuvaran,spotify:track:1DjWtO4F9X2wH59D6sV3Nz,0.91,0.93,0.242,0.325,0.335,-12.467,0.418,119.917,0.708,0
+60,Velaiyilla Pattathari (Original Sound Track),3,0bLKEemnvw6tpb0Rhv7JL4,Amma The Saviour,spotify:track:0bLKEemnvw6tpb0Rhv7JL4,0.011,0.506,0.202,0.965,0.713,-19.575,0.029,100.036,0.609,0
+61,Velaiyilla Pattathari (Original Sound Track),4,4Y6yFYRfG6NVrnfpbvIPiX,Raghuvaran Meets Shalini,spotify:track:4Y6yFYRfG6NVrnfpbvIPiX,0.875,0.629,0.229,0.0945,0.154,-17.202,0.416,158.919,0.601,0
+62,Velaiyilla Pattathari (Original Sound Track),5,5ShZe6qTWDATbgUoCqQBLx,Raghuvaran's Bike,spotify:track:5ShZe6qTWDATbgUoCqQBLx,0.867,0.9,0.337,0.627,0.105,-10.231,0.553,119.838,0.725,0
+63,Velaiyilla Pattathari (Original Sound Track),6,0zDyXdRPwCltQn4tbinyre,Raghuvaran Playing Cricket,spotify:track:0zDyXdRPwCltQn4tbinyre,0.865,0.936,0.321,0.902,0.376,-12.08,0.114,120.052,0.971,0
+64,Velaiyilla Pattathari (Original Sound Track),7,0iGo15EetlFldf7pfOlfv4,Shalini's Phone Call,spotify:track:0iGo15EetlFldf7pfOlfv4,0.423,0.671,0.293,0.812,0.696,-6.664,0.033,100.1,0.885,0
+65,Velaiyilla Pattathari (Original Sound Track),8,5MbjYKCye7Dr8ilRA5BHXE,What A Karvaad (Outro),spotify:track:5MbjYKCye7Dr8ilRA5BHXE,0.000211,0.768,0.412,0.342,0.213,-11.596,0.12,112.462,0.253,0
+66,Velaiyilla Pattathari (Original Sound Track),9,6Pb8qGgv4z44rXjQmsd3jx,The Call Centre Job,spotify:track:6Pb8qGgv4z44rXjQmsd3jx,0.0458,0.812,0.715,0.000239,0.0874,-6.304,0.0554,125.022,0.964,0
+67,Velaiyilla Pattathari (Original Sound Track),10,1JegXdMkXTy5McM9Jxw9qC,Raghuvaran's Philosopy,spotify:track:1JegXdMkXTy5McM9Jxw9qC,0.00145,0.696,0.702,0.211,0.18,-5.972,0.038,99.938,0.963,0
+68,Velaiyilla Pattathari (Original Sound Track),11,0YbL3loO0PmeAson5BWoY9,The Birthday Gift,spotify:track:0YbL3loO0PmeAson5BWoY9,0.108,0.452,0.567,0.922,0.536,-9.557,0.033,140.051,0.912,2
+69,Velaiyilla Pattathari (Original Sound Track),12,5BtNawg1TP8zTDGfwzjOjG,Raghuvaran Smokes,spotify:track:5BtNawg1TP8zTDGfwzjOjG,0.936,0.928,0.254,0.877,0.104,-13.317,0.17,105.155,0.97,0
+70,Velaiyilla Pattathari (Original Sound Track),13,3ijcs6eb6RsB4EHKeMcVjh,Raghuvaran Slapped,spotify:track:3ijcs6eb6RsB4EHKeMcVjh,0.964,0.508,0.257,0.83,0.116,-18.582,0.0427,156.465,0.665,0
+71,Velaiyilla Pattathari (Original Sound Track),14,5OosWL2UUzNrnJnx1KvVbD,Feelings Of Raghuvaran,spotify:track:5OosWL2UUzNrnJnx1KvVbD,0.859,0.386,0.0804,0.954,0.566,-18.008,0.028,47.459,0.325,0
+72,Velaiyilla Pattathari (Original Sound Track),15,3czMsSSGTxEUim2SgMxRRR,Shalini Likes Raghuvaran,spotify:track:3czMsSSGTxEUim2SgMxRRR,0.46,0.41,0.54,0.481,0.402,-10.585,0.0355,149.659,0.967,0
+73,Velaiyilla Pattathari (Original Sound Track),16,1ZILVZlnme9Evm2WPHqsxN,Harry Potter The Pet,spotify:track:1ZILVZlnme9Evm2WPHqsxN,0.899,0.97,0.339,0.0906,0.11,-9.965,0.19,119.96,0.96,0
+74,Velaiyilla Pattathari (Original Sound Track),17,5UUzRjFX6zcN5jjxV2XD6J,I am Always Free,spotify:track:5UUzRjFX6zcN5jjxV2XD6J,0.709,0.653,0.281,0.971,0.63,-10.029,0.0316,150.349,0.962,0
+75,Velaiyilla Pattathari (Original Sound Track),18,2UpR0dTaNhWNTw9VILFvov,Bike Turns Villain,spotify:track:2UpR0dTaNhWNTw9VILFvov,0.0198,0.823,0.774,0.0129,0.0393,-6.389,0.0791,124.891,0.914,0
+76,Velaiyilla Pattathari (Original Sound Track),19,5b2rWoxEOTzvKaT2f0TAoe,Amma Amma (Outro),spotify:track:5b2rWoxEOTzvKaT2f0TAoe,0.862,0.68,0.218,0.955,0.122,-13.534,0.0483,154.957,0.0,0
+77,Velaiyilla Pattathari (Original Sound Track),20,4ANZoJLuoI3M5EED3l5XtS,Shalini's Advice,spotify:track:4ANZoJLuoI3M5EED3l5XtS,0.428,0.0,0.0647,0.000117,0.14,-17.338,0.0,0.0,0.0,0
+78,Velaiyilla Pattathari (Original Sound Track),21,5ao2Cw40BfHonffzkRbAv5,Anitha Intro,spotify:track:5ao2Cw40BfHonffzkRbAv5,0.92,0.495,0.236,0.794,0.148,-12.823,0.0305,144.828,0.571,0
+79,Velaiyilla Pattathari (Original Sound Track),22,2C5RmfO1ag6AAsfZ4UL6E7,Azhagu Sundaram,spotify:track:2C5RmfO1ag6AAsfZ4UL6E7,0.0462,0.655,0.428,0.655,0.0414,-15.962,0.0577,104.342,0.926,0
+80,Velaiyilla Pattathari (Original Sound Track),23,1CIQkGQxzdcUysFQqbfpCP,The Project VIP,spotify:track:1CIQkGQxzdcUysFQqbfpCP,0.902,0.464,0.187,0.914,0.26,-11.797,0.0301,80.142,0.338,0
+81,Velaiyilla Pattathari (Original Sound Track),24,5cijxFaT9GS1VUkA0war3G,Amma Amma (The Resurrection),spotify:track:5cijxFaT9GS1VUkA0war3G,0.619,0.444,0.309,0.962,0.357,-12.104,0.032,129.719,0.5,10
+82,Velaiyilla Pattathari (Original Sound Track),25,0WTJU5VNH7H4ZJrLdjBQR3,Balancing Both,spotify:track:0WTJU5VNH7H4ZJrLdjBQR3,0.716,0.459,0.432,0.927,0.136,-9.727,0.0271,159.734,0.291,0
+83,Velaiyilla Pattathari (Original Sound Track),26,0qs39iisitp5XhZ9h69nPn,Azhagu's Confusion,spotify:track:0qs39iisitp5XhZ9h69nPn,0.209,0.641,0.421,0.675,0.0908,-15.427,0.0342,159.978,0.914,0
+84,Velaiyilla Pattathari (Original Sound Track),27,1ryMbDF4pPrvRaGT1vy4aV,Taking Care of Anitha,spotify:track:1ryMbDF4pPrvRaGT1vy4aV,0.752,0.459,0.324,0.989,0.211,-10.102,0.0295,80.011,0.321,0
+85,Velaiyilla Pattathari (Original Sound Track),28,6FrKymFu5KnDXat4Kes8lU,VIP Theme (Outro),spotify:track:6FrKymFu5KnDXat4Kes8lU,0.057,0.365,0.498,0.962,0.489,-7.631,0.043,86.726,0.593,0
+86,Velaiyilla Pattathari (Original Sound Track),29,2ikD9ZJCVGo56obNuDDZNE,Bike Ride,spotify:track:2ikD9ZJCVGo56obNuDDZNE,0.0228,0.666,0.747,0.79,0.41,-10.339,0.044,140.002,0.972,0
+87,Velaiyilla Pattathari (Original Sound Track),30,5cBKbWd4AB6pcL0I2fa3v1,VIP The Gathering,spotify:track:5cBKbWd4AB6pcL0I2fa3v1,0.972,0.675,0.208,0.673,0.245,-9.215,0.0571,79.971,0.348,0
+88,Velaiyilla Pattathari (Original Sound Track),31,2xHAhpkWG2xbSAKIe3xq5z,Thanga Pushpam,spotify:track:2xHAhpkWG2xbSAKIe3xq5z,0.047,0.748,0.61,0.912,0.197,-12.996,0.0343,104.927,0.973,0
+89,Velaiyilla Pattathari (Original Sound Track),32,6TUvVlVeWMe49B8vQq3GfO,Amma Sentiment,spotify:track:6TUvVlVeWMe49B8vQq3GfO,0.00889,0.442,0.556,0.804,0.182,-9.469,0.0731,145.111,0.0969,0
+90,Velaiyilla Pattathari (Original Sound Track),33,5F3yBLVhVkfKHIKTpH5PPt,Raghuvaran Gets Emotional,spotify:track:5F3yBLVhVkfKHIKTpH5PPt,0.953,0.549,0.269,2.79e-05,0.101,-10.983,0.0453,125.205,0.708,0
+91,Velaiyilla Pattathari (Original Sound Track),34,1OHeTyUpeIbAFuVJyhLI2S,Raghuvaran Meets Amul Baby,spotify:track:1OHeTyUpeIbAFuVJyhLI2S,0.379,0.612,0.176,0.287,0.325,-11.792,0.0498,89.735,0.749,0
+92,Velaiyilla Pattathari (Original Sound Track),35,0HsIYGEHydwPRJrLpwtYgt,Raghuvaran's Ethics,spotify:track:0HsIYGEHydwPRJrLpwtYgt,0.0143,0.666,0.506,0.881,0.105,-8.79,0.0415,90.062,0.815,0
+93,Velaiyilla Pattathari (Original Sound Track),36,6wj9pj3bErW4H7RgbHhhF9,Raghuvaran Succeeds,spotify:track:6wj9pj3bErW4H7RgbHhhF9,0.919,0.382,0.297,0.0912,0.307,-8.904,0.0789,80.498,0.147,0
+94,Velaiyilla Pattathari (Original Sound Track),37,070r2LisQxbYTaK9emWjd8,Amma Blessings,spotify:track:070r2LisQxbYTaK9emWjd8,0.906,0.228,0.265,0.209,0.298,-11.838,0.0364,149.785,0.863,0
+95,Velaiyilla Pattathari (Original Sound Track),38,1NLdF4KAWKZu0uLJKDglcy,The Climax Theme,spotify:track:1NLdF4KAWKZu0uLJKDglcy,0.0495,0.355,0.787,0.645,0.129,-8.43,0.154,87.545,0.564,0
+96,Velaiyilla Pattathari (Original Sound Track),1,05q5OZfzYtO8yYgoHfFprI,VIP Theme,spotify:track:05q5OZfzYtO8yYgoHfFprI,0.0156,0.574,0.521,0.962,0.521,-8.772,0.101,89.98,0.539,27
+97,Velaiyilla Pattathari (Original Sound Track),2,478ZZ7aX0oG7EbuAwSIsdr,The Naration Of Raghuvaran,spotify:track:478ZZ7aX0oG7EbuAwSIsdr,0.906,0.926,0.244,0.296,0.326,-12.488,0.463,119.916,0.698,12
+98,Velaiyilla Pattathari (Original Sound Track),3,66FtHvVSACIEi8XErw607T,Amma The Saviour,spotify:track:66FtHvVSACIEi8XErw607T,0.00965,0.488,0.21,0.932,0.7,-19.561,0.029,100.045,0.57,16
+99,Velaiyilla Pattathari (Original Sound Track),4,6LglyeKex0VFJOc3d7HFhV,Raghuvaran Meets Shalini,spotify:track:6LglyeKex0VFJOc3d7HFhV,0.881,0.711,0.219,0.0914,0.153,-17.191,0.277,79.933,0.648,11
+100,Velaiyilla Pattathari (Original Sound Track),5,4qEHxBKw8zTGzeatLiRkza,Raghuvaran's Bike,spotify:track:4qEHxBKw8zTGzeatLiRkza,0.865,0.899,0.313,0.54,0.104,-10.231,0.331,119.807,0.87,12
+101,Velaiyilla Pattathari (Original Sound Track),6,0BtfuILRHYxetB5PIzzs5K,Raghuvaran Playing Cricket,spotify:track:0BtfuILRHYxetB5PIzzs5K,0.871,0.935,0.322,0.965,0.358,-12.063,0.115,120.058,0.972,7
+102,Velaiyilla Pattathari (Original Sound Track),7,45gOvVVUHaPRgPRV6Ys7MX,Shalini's Phone Call,spotify:track:45gOvVVUHaPRgPRV6Ys7MX,0.507,0.583,0.288,0.75,0.563,-6.701,0.0297,150.422,0.907,20
+103,Velaiyilla Pattathari (Original Sound Track),8,1YWzvRJrWJrsy6DrzTHzlc,What A Karvaad (Outro),spotify:track:1YWzvRJrWJrsy6DrzTHzlc,0.000176,0.76,0.416,0.433,0.247,-11.543,0.116,112.502,0.252,25
+104,Velaiyilla Pattathari (Original Sound Track),9,2S5HeE56pNWW4jWTArzDBI,The Call Centre Job,spotify:track:2S5HeE56pNWW4jWTArzDBI,0.0431,0.813,0.718,0.000203,0.0878,-6.31,0.054,124.987,0.964,11
+105,Velaiyilla Pattathari (Original Sound Track),10,1Usc58cRNeC2FOw2yQNYGG,Raghuvaran's Philosopy,spotify:track:1Usc58cRNeC2FOw2yQNYGG,0.00166,0.694,0.722,0.0189,0.18,-5.994,0.0393,100.02,0.963,3
+106,Velaiyilla Pattathari (Original Sound Track),11,1J6KpagEEujmMSdwYIFrpu,The Birthday Gift,spotify:track:1J6KpagEEujmMSdwYIFrpu,0.134,0.466,0.573,0.931,0.533,-9.534,0.0325,140.047,0.913,30
+107,Velaiyilla Pattathari (Original Sound Track),12,13qg7y6JVAXbw7x0sOxsLz,Raghuvaran Smokes,spotify:track:13qg7y6JVAXbw7x0sOxsLz,0.934,0.926,0.261,0.885,0.104,-13.324,0.161,105.147,0.969,11
+108,Velaiyilla Pattathari (Original Sound Track),13,0Ngq3f2PCJe3X0YKpTsGEC,Raghuvaran Slapped,spotify:track:0Ngq3f2PCJe3X0YKpTsGEC,0.964,0.522,0.253,0.862,0.114,-18.576,0.0427,156.339,0.638,1
+109,Velaiyilla Pattathari (Original Sound Track),14,41vPx7CF0WxTjAc3DD3RCn,Feelings Of Raghuvaran,spotify:track:41vPx7CF0WxTjAc3DD3RCn,0.825,0.209,0.0836,0.946,0.576,-18.022,0.0297,100.89,0.311,1
+110,Velaiyilla Pattathari (Original Sound Track),15,1SBjGYVqRibbIdV3wqLNmV,Shalini Likes Raghuvaran,spotify:track:1SBjGYVqRibbIdV3wqLNmV,0.482,0.419,0.544,0.337,0.376,-10.587,0.0358,149.578,0.965,1
+111,Velaiyilla Pattathari (Original Sound Track),16,3gicHCOEzulLLIjEdNKZdE,Harry Potter The Pet,spotify:track:3gicHCOEzulLLIjEdNKZdE,0.894,0.97,0.333,0.231,0.109,-9.981,0.191,119.954,0.958,11
+112,Velaiyilla Pattathari (Original Sound Track),17,6zIHBoPuKF3cCzhkLSEKgM,I am Always Free,spotify:track:6zIHBoPuKF3cCzhkLSEKgM,0.694,0.651,0.27,0.972,0.648,-10.061,0.0331,150.418,0.953,12
+113,Velaiyilla Pattathari (Original Sound Track),18,796OU7bvs7lUwQspiQ51GM,Bike Turns Villain,spotify:track:796OU7bvs7lUwQspiQ51GM,0.0191,0.821,0.754,0.0173,0.0393,-6.387,0.0736,124.9,0.91,12
+114,Velaiyilla Pattathari (Original Sound Track),19,0j5yaCYfDdemqCTZv2Keza,Amma Amma (Outro),spotify:track:0j5yaCYfDdemqCTZv2Keza,0.846,0.679,0.228,0.976,0.111,-13.526,0.0521,155.016,0.0,0
+115,Velaiyilla Pattathari (Original Sound Track),20,4BdPze72OursqOn1GfIbl2,Shalini's Advice,spotify:track:4BdPze72OursqOn1GfIbl2,0.707,0.0,0.0632,4.61e-05,0.158,-14.684,0.0,0.0,0.0,0
+116,Velaiyilla Pattathari (Original Sound Track),21,03hBAkMGeBzG49wA9l5Dz0,Anitha Intro,spotify:track:03hBAkMGeBzG49wA9l5Dz0,0.911,0.503,0.24,0.742,0.148,-12.664,0.0305,144.386,0.584,20
+117,Velaiyilla Pattathari (Original Sound Track),22,7oAzdEJLClJbxXPfP5uvOx,Azhagu Sundaram,spotify:track:7oAzdEJLClJbxXPfP5uvOx,0.0539,0.672,0.412,0.615,0.0412,-16.014,0.0661,103.647,0.94,10
+118,Velaiyilla Pattathari (Original Sound Track),23,65NudpBitjhUaQjSi37N2M,The Project VIP,spotify:track:65NudpBitjhUaQjSi37N2M,0.887,0.445,0.192,0.865,0.107,-11.795,0.0305,80.065,0.357,0
+119,Velaiyilla Pattathari (Original Sound Track),24,7kowksF74o9OuCqHYABPds,Amma Amma (The Resurrection),spotify:track:7kowksF74o9OuCqHYABPds,0.615,0.442,0.32,0.936,0.352,-12.086,0.0314,129.653,0.542,24
+120,Velaiyilla Pattathari (Original Sound Track),25,7Fr7dDlK7u3WwFWLlV9SEV,Balancing Both,spotify:track:7Fr7dDlK7u3WwFWLlV9SEV,0.713,0.452,0.435,0.975,0.137,-9.694,0.027,159.851,0.336,11
+121,Velaiyilla Pattathari (Original Sound Track),26,4PQVWeurg9YX31qfPPjBoj,Azhagu's Confusion,spotify:track:4PQVWeurg9YX31qfPPjBoj,0.203,0.642,0.413,0.741,0.0891,-15.467,0.0339,159.994,0.905,7
+122,Velaiyilla Pattathari (Original Sound Track),27,6cxx9IM1TzccsVjtbkrhBI,Taking Care of Anitha,spotify:track:6cxx9IM1TzccsVjtbkrhBI,0.752,0.463,0.284,0.991,0.219,-10.036,0.0329,79.865,0.311,0
+123,Velaiyilla Pattathari (Original Sound Track),28,7uThPko4PJBxlOdqRiMATs,VIP Theme (Outro),spotify:track:7uThPko4PJBxlOdqRiMATs,0.0428,0.415,0.484,0.95,0.473,-7.641,0.0397,67.226,0.682,19
+124,Velaiyilla Pattathari (Original Sound Track),29,44J7utxD4ycpFppv8fNPvc,Bike Ride,spotify:track:44J7utxD4ycpFppv8fNPvc,0.0224,0.591,0.743,0.607,0.426,-10.276,0.0443,139.812,0.964,0
+125,Velaiyilla Pattathari (Original Sound Track),30,5Ewaxkn6Q451OKpYGmGf5p,VIP The Gathering,spotify:track:5Ewaxkn6Q451OKpYGmGf5p,0.969,0.672,0.189,0.515,0.192,-9.204,0.0467,79.982,0.425,10
+126,Velaiyilla Pattathari (Original Sound Track),31,6Rs05OjdLeCmMtaaw6G7D6,Thanga Pushpam,spotify:track:6Rs05OjdLeCmMtaaw6G7D6,0.0357,0.746,0.604,0.928,0.194,-12.991,0.0336,104.923,0.967,8
+127,Velaiyilla Pattathari (Original Sound Track),32,4exRg9oJcOllU1blaKMjaN,Amma Sentiment,spotify:track:4exRg9oJcOllU1blaKMjaN,0.00901,0.438,0.553,0.792,0.178,-9.44,0.0822,145.064,0.0955,15
+128,Velaiyilla Pattathari (Original Sound Track),33,42euhrRV52Reg6kR2oeFKF,Raghuvaran Gets Emotional,spotify:track:42euhrRV52Reg6kR2oeFKF,0.952,0.556,0.252,2.07e-05,0.0884,-10.957,0.0475,125.006,0.699,0
+129,Velaiyilla Pattathari (Original Sound Track),34,3tq3lMwKMnt1MG2c2IeN8Y,Raghuvaran Meets Amul Baby,spotify:track:3tq3lMwKMnt1MG2c2IeN8Y,0.408,0.648,0.158,0.845,0.354,-11.812,0.0459,89.993,0.756,13
+130,Velaiyilla Pattathari (Original Sound Track),35,2YtlcfNBGimyVlY6O8pm6M,Raghuvaran's Ethics,spotify:track:2YtlcfNBGimyVlY6O8pm6M,0.00892,0.659,0.512,0.653,0.119,-8.857,0.0732,89.992,0.779,13
+131,Velaiyilla Pattathari (Original Sound Track),36,2DZvyJS0M1IFuzwi0v8HNR,Raghuvaran Succeeds,spotify:track:2DZvyJS0M1IFuzwi0v8HNR,0.924,0.608,0.292,0.111,0.262,-8.938,0.0525,79.903,0.193,11
+132,Velaiyilla Pattathari (Original Sound Track),37,2R7wnmTy5aMjkgJYDsgvG4,Amma Blessings,spotify:track:2R7wnmTy5aMjkgJYDsgvG4,0.898,0.212,0.264,0.205,0.276,-11.814,0.0379,161.143,0.871,2
+133,Velaiyilla Pattathari (Original Sound Track),38,3ZT1R5nE3byL0QAusCOxUa,The Climax Theme,spotify:track:3ZT1R5nE3byL0QAusCOxUa,0.0454,0.602,0.787,0.612,0.143,-8.423,0.093,89.972,0.539,23
+134,Master (Original Motion Picture Soundtrack),1,2BcPFQ7nrtUObgAs72xaac,Vaathi Coming,spotify:track:2BcPFQ7nrtUObgAs72xaac,0.276,0.643,0.952,0.49,0.0588,-4.15,0.246,164.784,0.585,60
+135,Master (Original Motion Picture Soundtrack),2,0qvoxfYodIfe14gaidhnsV,Andha Kanna Paathaakaa,spotify:track:0qvoxfYodIfe14gaidhnsV,0.301,0.747,0.86,0.0383,0.0743,-4.071,0.279,90.445,0.625,62
+136,Master (Original Motion Picture Soundtrack),3,4tHdVbionAnDm4LN17MDIl,Kutti Story,spotify:track:4tHdVbionAnDm4LN17MDIl,0.204,0.555,0.559,1.3e-06,0.0919,-6.134,0.132,99.056,0.769,53
+137,Master (Original Motion Picture Soundtrack),4,66N9OkT3uarJxuzD7iU4BP,Quit Pannuda,spotify:track:66N9OkT3uarJxuzD7iU4BP,0.179,0.51,0.797,0.0,0.443,-5.279,0.234,76.965,0.499,49
+138,Master (Original Motion Picture Soundtrack),5,7wQR696XF4L91Zr9groP8v,Beat of Master - Instrumental,spotify:track:7wQR696XF4L91Zr9groP8v,0.256,0.844,0.961,0.88,0.0894,-5.095,0.111,172.429,0.547,46
+139,Master (Original Motion Picture Soundtrack),6,2K058s9yrpoUfANaQt7Zu4,Polakattum Para Para,spotify:track:2K058s9yrpoUfANaQt7Zu4,0.165,0.758,0.796,4.1e-05,0.29,-6.483,0.17,145.475,0.919,53
+140,Master (Original Motion Picture Soundtrack),7,2dnAqKYsZRuNVOJ9OVH7Ov,Pona Pogattum,spotify:track:2dnAqKYsZRuNVOJ9OVH7Ov,0.83,0.685,0.476,0.257,0.092,-9.573,0.0369,142.411,0.601,49
+141,Master (Original Motion Picture Soundtrack),8,4PML5RtrVcYAwTTS46otXB,Vaathi Raid,spotify:track:4PML5RtrVcYAwTTS46otXB,0.253,0.806,0.93,1.94e-05,0.106,-3.404,0.132,100.016,0.666,58
+142,Anirudhs Darbar,1,3CwvbWfS6RQGwyTmJ8CF2e,Thangamey (From 'Naanum Rowdy Dhaan'),spotify:track:3CwvbWfS6RQGwyTmJ8CF2e,0.48,0.583,0.901,0.0,0.248,-5.785,0.0739,99.927,0.618,20
+143,Anirudhs Darbar,2,56v3cgTQHamcCu8aDl0yS8,VIP Title Song (From 'Velai Illa Pattadhaari'),spotify:track:56v3cgTQHamcCu8aDl0yS8,0.00671,0.547,0.927,0.0,0.878,-4.415,0.0944,90.002,0.775,14
+144,Anirudhs Darbar,3,5BjSjuvisdr9ItYWGYNZX0,Im So Cool (From 'Kaaki Sattai'),spotify:track:5BjSjuvisdr9ItYWGYNZX0,0.472,0.774,0.879,0.0,0.177,-4.743,0.137,88.003,0.827,12
+145,Anirudhs Darbar,4,5XH9U0V4D0jJka8J6RcHse,Ey Inge Paaru (From 'Velai Illa Pattadhaari'),spotify:track:5XH9U0V4D0jJka8J6RcHse,0.0626,0.754,0.835,9.8e-05,0.626,-4.168,0.0948,95.004,0.815,12
+146,Anirudhs Darbar,5,7o6TSTMWwmSJocdeCv08Vy,Naanum Rowdy Dhaan (From 'Naanum Rowdy Dhaan'),spotify:track:7o6TSTMWwmSJocdeCv08Vy,0.132,0.633,0.756,0.0,0.0722,-6.567,0.0854,170.07,0.724,11
+147,Anirudhs Darbar,6,4UTXWnKLIWLTq7y8ofPHDr,Po Indru Neeyaga (From 'Velai Illa Pattadhaari'),spotify:track:4UTXWnKLIWLTq7y8ofPHDr,0.254,0.485,0.608,0.0,0.084,-3.841,0.0275,144.85,0.412,11
+148,Anirudhs Darbar,7,7jZtBIVR5r8wJgagh6j2kg,Kannaana Kanne (From 'Naanum Rowdy Dhaan'),spotify:track:7jZtBIVR5r8wJgagh6j2kg,0.483,0.416,0.586,0.0,0.12,-8.83,0.0479,195.092,0.502,10
+149,Anirudhs Darbar,8,3O3y6rpMvC0RnRZMiM53Pt,Kadhal Kan Kattudhe (From 'Kaaki Sattai'),spotify:track:3O3y6rpMvC0RnRZMiM53Pt,0.59,0.42,0.534,0.0,0.133,-4.939,0.0335,139.638,0.514,14
+150,Anirudhs Darbar,9,30MpNM66NgVZCmMo7dn5NK,What A Karavaad (From 'Velai Illa Pattadhaari'),spotify:track:30MpNM66NgVZCmMo7dn5NK,0.0775,0.457,0.787,0.0,0.875,-5.841,0.363,83.797,0.462,12
+151,Anirudhs Darbar,10,1eS1ckNdtJUS3wOnkJfFVA,Yennai Maatrum Kadhale (From 'Naanum Rowdy Dhaan'),spotify:track:1eS1ckNdtJUS3wOnkJfFVA,0.464,0.515,0.766,3.12e-06,0.136,-7.291,0.0941,112.466,0.346,16
+152,Anirudhs Darbar,11,6laz0Z7NjWabGzzgkz9EPD,Amma Amma (From 'Velai Illa Pattadhaari'),spotify:track:6laz0Z7NjWabGzzgkz9EPD,0.381,0.523,0.592,0.0,0.193,-3.954,0.0439,154.935,0.338,6
+153,Anirudhs Darbar,12,5oeachFASZ8W8gMM1BULBB,Neeyum Naanum (From 'Naanum Rowdy Dhaan'),spotify:track:5oeachFASZ8W8gMM1BULBB,0.0947,0.569,0.613,0.00619,0.113,-9.959,0.0431,157.98,0.302,10
+154,Anirudhs Darbar,13,4GMIulanATNOzCC0k39RDz,Udhungada Sangu (From 'Velai Illa Pattadhaari'),spotify:track:4GMIulanATNOzCC0k39RDz,0.216,0.446,0.801,0.0,0.0654,-5.61,0.121,86.036,0.726,12
+155,Anirudhs Darbar,14,06urcRu3Qc9mXX0qJb75rD,Shake That (From 'Kaaki Sattai'),spotify:track:06urcRu3Qc9mXX0qJb75rD,0.177,0.835,0.849,3.46e-05,0.275,-4.202,0.182,99.953,0.847,10
+156,Anirudhs Darbar,15,1uqdNdR2ka59OBKC4b3LyE,Varavaa Varavaa (From 'Naanum Rowdy Dhaan'),spotify:track:1uqdNdR2ka59OBKC4b3LyE,0.115,0.611,0.799,0.0,0.044,-7.273,0.134,194.99,0.67,15
+157,Naanum Rowdy Dhaan (Dialogues),1,4nDJz8PhL6jWzT1d7cQy4n,Kadhu|Are U Ok Baby,spotify:track:4nDJz8PhL6jWzT1d7cQy4n,0.00114,0.652,0.589,0.421,0.0838,-11.371,0.138,157.886,0.791,0
+158,Naanum Rowdy Dhaan (Dialogues),2,7uUp18NnChWQNqyyd4VIsx,Doshi Baba Over Phone,spotify:track:7uUp18NnChWQNqyyd4VIsx,0.882,0.829,0.618,5.5e-05,0.651,-7.283,0.51,103.259,0.96,6
+159,Naanum Rowdy Dhaan (Dialogues),3,5Klu9jtuAnvxkLnpFV2N0J,Kadhu|Police Dhaan Gethu,spotify:track:5Klu9jtuAnvxkLnpFV2N0J,0.307,0.687,0.603,0.0,0.134,-7.96,0.446,85.153,0.717,4
+160,Naanum Rowdy Dhaan (Dialogues),4,7AcdlDTWqQa55RRsm3vQkI,En Pulla Police Dhaan,spotify:track:7AcdlDTWqQa55RRsm3vQkI,0.549,0.828,0.384,0.0,0.332,-14.593,0.891,98.097,0.837,0
+161,Naanum Rowdy Dhaan (Dialogues),5,53TniozUNmr3hhpsJPGUvi,Ketta Police Nalla Rowdy,spotify:track:53TniozUNmr3hhpsJPGUvi,0.335,0.442,0.591,0.136,0.277,-8.44,0.274,172.48,0.773,3
+162,Naanum Rowdy Dhaan (Dialogues),6,6l5aoHEY6BdGpch3KNlFYx,Sapteengala ne,spotify:track:6l5aoHEY6BdGpch3KNlFYx,0.495,0.614,0.513,0.0,0.258,-9.596,0.364,86.576,0.757,2
+163,Naanum Rowdy Dhaan (Dialogues),7,6lau7nyRpdwbwWi24PgDBI,Kannu Pattudum,spotify:track:6lau7nyRpdwbwWi24PgDBI,0.773,0.596,0.385,0.0,0.466,-16.549,0.939,85.829,0.784,3
+164,Naanum Rowdy Dhaan (Dialogues),8,4tbH93MU4JqYi57FSQIqJZ,Kiss Pannikalam,spotify:track:4tbH93MU4JqYi57FSQIqJZ,0.237,0.764,0.786,0.00461,0.195,-9.138,0.201,129.805,0.528,4
+165,Naanum Rowdy Dhaan (Dialogues),9,20YNix5pyUDz2SBMkpMnTW,Rowdy Perusa Police Perusa,spotify:track:20YNix5pyUDz2SBMkpMnTW,0.723,0.651,0.49,0.0,0.133,-9.382,0.693,153.233,0.799,2
+166,Naanum Rowdy Dhaan (Dialogues),10,0sAS0QUJxwb4HQErOOWADc,Therika Vidalama,spotify:track:0sAS0QUJxwb4HQErOOWADc,0.771,0.572,0.758,0.000111,0.628,-8.735,0.853,91.313,0.863,0
+167,Naanum Rowdy Dhaan (Dialogues),11,2Knkczu3onoavkWr2dgJjJ,Puli Pasichalum,spotify:track:2Knkczu3onoavkWr2dgJjJ,0.485,0.554,0.56,0.0,0.36,-15.037,0.448,195.253,0.809,3
+168,Naanum Rowdy Dhaan (Dialogues),12,7ry0hBlYk8eG0XevkCxJaC,Dai Red Shirt,spotify:track:7ry0hBlYk8eG0XevkCxJaC,0.799,0.649,0.622,0.0,0.102,-6.288,0.483,121.021,0.579,3
+169,Kaaki Sattai (Original Motion Picture Soundtrack),1,3FG5BN4olwDN9MG7x9c7Pg,Kaaki Sattai,spotify:track:3FG5BN4olwDN9MG7x9c7Pg,0.18,0.737,0.963,0.0,0.487,-4.458,0.171,110.019,0.556,2
+170,Kaaki Sattai (Original Motion Picture Soundtrack),2,4L21mWm2nixWLLp7bMvMGU,Kadhal Kan Kattudhe,spotify:track:4L21mWm2nixWLLp7bMvMGU,0.561,0.61,0.54,0.0,0.136,-4.931,0.0294,139.638,0.524,3
+171,Kaaki Sattai (Original Motion Picture Soundtrack),3,1qI5ISiJsYZMovByLo9BGf,The Trooper Theme,spotify:track:1qI5ISiJsYZMovByLo9BGf,0.0182,0.748,0.732,0.000564,0.35,-6.601,0.171,105.066,0.131,2
+172,Kaaki Sattai (Original Motion Picture Soundtrack),4,434soX640gQNfgwBfvRK2y,Im so cool,spotify:track:434soX640gQNfgwBfvRK2y,0.455,0.773,0.877,0.0,0.182,-4.746,0.135,88.008,0.82,11
+173,Kaaki Sattai (Original Motion Picture Soundtrack),5,4O7ThLgIg3pKDyPP9ALsTV,Kaaki Sattai Theme Music,spotify:track:4O7ThLgIg3pKDyPP9ALsTV,0.00465,0.669,0.941,0.212,0.113,-4.864,0.166,109.937,0.642,2
+174,Kaaki Sattai (Original Motion Picture Soundtrack),6,4wHmP1KGkxWIKTSFF1eYFY,Kattikida,spotify:track:4wHmP1KGkxWIKTSFF1eYFY,0.276,0.702,0.794,0.0,0.382,-4.233,0.281,154.998,0.901,2
+175,Kaaki Sattai (Original Motion Picture Soundtrack),7,6XXhMzQUh6sWnJzFNm1hwG,Shake That,spotify:track:6XXhMzQUh6sWnJzFNm1hwG,0.179,0.835,0.856,2.08e-05,0.275,-4.21,0.169,99.947,0.826,3
+176,Jersey (Original Background Score),1,1lERCQfI401tja7ln2ByNQ,Jersey The Book,spotify:track:1lERCQfI401tja7ln2ByNQ,0.929,0.453,0.445,0.929,0.119,-11.157,0.0296,87.971,0.3,24
+177,Jersey (Original Background Score),2,3mW4HFi0vdLY1JsiAVr2pQ,Arjun Theme,spotify:track:3mW4HFi0vdLY1JsiAVr2pQ,4.24e-06,0.539,0.775,0.836,0.13,-5.137,0.0504,124.141,0.639,22
+178,Jersey (Original Background Score),3,50UxAgG5qKKf7iuVzJqqev,Jersey Title Theme,spotify:track:50UxAgG5qKKf7iuVzJqqev,0.864,0.465,0.244,0.843,0.106,-10.061,0.0429,123.764,0.415,22
+179,Jersey (Original Background Score),4,1V6Gj7yuo2EzwsOVqwczQu,Padhe Padhe Reprise,spotify:track:1V6Gj7yuo2EzwsOVqwczQu,0.972,0.351,0.261,0.903,0.308,-13.591,0.026,85.05,0.0488,24
+180,Jersey (Original Background Score),5,5iYMtmVjKYzHSfjvcNkci3,Arjun & Nani’s Theme,spotify:track:5iYMtmVjKYzHSfjvcNkci3,0.961,0.161,0.269,0.643,0.146,-13.414,0.0309,176.292,0.329,28
+181,Jersey (Original Background Score),6,0GzHsRv4uoAU6KXeZa6hNL,Hyderabad v New Zealand,spotify:track:0GzHsRv4uoAU6KXeZa6hNL,0.659,0.748,0.893,0.966,0.101,-8.493,0.0454,114.953,0.393,18
+182,Jersey (Original Background Score),7,7t7QaBlUAQTYVi6hOKVBBA,Hyderabad v New Zealand (2),spotify:track:7t7QaBlUAQTYVi6hOKVBBA,0.098,0.685,0.824,0.925,0.101,-9.541,0.119,193.993,0.163,16
+183,Jersey (Original Background Score),8,44tINLsOABf7T6SX5LkRWp,Arjun Makes Nani Proud,spotify:track:44tINLsOABf7T6SX5LkRWp,0.177,0.395,0.337,0.866,0.229,-7.91,0.0338,124.08,0.377,20
+184,Jersey (Original Background Score),9,5IdCWMcOxIEhsOwQxvkcMY,Interval Block,spotify:track:5IdCWMcOxIEhsOwQxvkcMY,0.349,0.573,0.597,0.754,0.144,-6.773,0.035,99.011,0.476,26
+185,Jersey (Original Background Score),10,1thyz5yhOYKE4cV8sX7KcW,Arjun Hugs Murthy Garu,spotify:track:1thyz5yhOYKE4cV8sX7KcW,0.967,0.288,0.218,0.335,0.184,-9.885,0.0308,109.837,0.744,19
+186,Jersey (Original Background Score),11,1fKXdjvpTJdBdFZJoPdfpq,Murthy Garu Inspires Arjun,spotify:track:1fKXdjvpTJdBdFZJoPdfpq,0.663,0.535,0.403,0.943,0.14,-10.178,0.029,99.05,0.16,20
+187,Jersey (Original Background Score),12,4KySJlDxi7ktCTSUTqzpUD,Vintage Arjun Is Back,spotify:track:4KySJlDxi7ktCTSUTqzpUD,0.164,0.398,0.84,0.847,0.32,-4.223,0.17,124.006,0.681,18
+188,Jersey (Original Background Score),13,6SicnwP854rt4VR0MS3mU3,Train Station Scene,spotify:track:6SicnwP854rt4VR0MS3mU3,0.831,0.266,0.843,0.949,0.108,-7.93,0.0454,87.038,0.199,38
+189,Jersey (Original Background Score),14,0jfilCleCZcmbjD9yzwCTu,Arjun and Sarah Theme,spotify:track:0jfilCleCZcmbjD9yzwCTu,0.894,0.521,0.224,0.818,0.112,-10.71,0.0371,122.042,0.201,24
+190,Jersey (Original Background Score),15,7aho5h4PTwSS8d2i8o67Gl,Arjun and Sarah Theme (2),spotify:track:7aho5h4PTwSS8d2i8o67Gl,0.992,0.255,0.227,0.828,0.248,-11.309,0.032,78.588,0.259,20
+191,Jersey (Original Background Score),16,7I1T6FndzUkzntZMAj32uh,Hyderabad v Mumbai,spotify:track:7I1T6FndzUkzntZMAj32uh,0.571,0.548,0.869,0.804,0.524,-6.963,0.0548,180.027,0.838,16
+192,Jersey (Original Background Score),17,1JbmuRvjFPPo6M07SK409i,Hyderabad v Mumbai (2),spotify:track:1JbmuRvjFPPo6M07SK409i,0.132,0.788,0.967,0.612,0.132,-5.996,0.054,112.022,0.81,15
+193,Jersey (Original Background Score),18,7rdzLkResX0syc1EjbdaOr,Arjun The Master Blaster,spotify:track:7rdzLkResX0syc1EjbdaOr,0.34,0.762,0.933,0.808,0.105,-8.136,0.0471,115.023,0.744,16
+194,Jersey (Original Background Score),19,4opbIg8kom5e6V0E3jttK0,Last Ball Victory,spotify:track:4opbIg8kom5e6V0E3jttK0,0.618,0.544,0.795,0.921,0.323,-8.017,0.0524,157.947,0.443,20
+195,Jersey (Original Background Score),20,6EqvyjCueVCb3wqeW2a1XE,Nuvvadiginadhe,spotify:track:6EqvyjCueVCb3wqeW2a1XE,0.937,0.353,0.3,0.374,0.108,-12.159,0.0272,88.002,0.342,35
+196,Golden Hits of S Janaki,1,48MeEnj5jsbFLTnonyZh1M,Amma Amma,spotify:track:48MeEnj5jsbFLTnonyZh1M,0.596,0.448,0.502,0.0,0.252,-6.894,0.0381,154.923,0.359,27
+197,Golden Hits of S Janaki,2,2pi8w82Z47qPMTl3awXHHw,Chukkalanti (Sad),spotify:track:2pi8w82Z47qPMTl3awXHHw,0.59,0.636,0.569,2.69e-05,0.12,-4.632,0.0485,127.27,0.617,15
+198,Golden Hits of S Janaki,3,6fHHHdRItjZBM3gfh9SIQN,Jabilli Kosam-Female,spotify:track:6fHHHdRItjZBM3gfh9SIQN,0.454,0.532,0.66,1.57e-05,0.268,-4.372,0.0289,94.646,0.762,34
+199,Golden Hits of S Janaki,4,25uKdD1tOzBjwpiVigaAOE,Aaskasam Eenatido,spotify:track:25uKdD1tOzBjwpiVigaAOE,0.905,0.699,0.383,0.207,0.079,-11.608,0.052,91.147,0.846,34
+200,Golden Hits of S Janaki,5,16dbHOrmCiU0QA8LOkayv2,Aakasamlo,spotify:track:16dbHOrmCiU0QA8LOkayv2,0.667,0.714,0.679,0.0315,0.424,-5.318,0.0464,124.749,0.905,15
+201,Golden Hits of S Janaki,6,0bhD7o8MyBtGNmFnxPUXBZ,Maga Dheera,spotify:track:0bhD7o8MyBtGNmFnxPUXBZ,0.0535,0.727,0.758,0.0,0.355,-7.696,0.152,134.94,0.693,16
+202,Golden Hits of S Janaki,7,2oE70NVXrWIUDS31wPrBqq,Naruda O Naruda,spotify:track:2oE70NVXrWIUDS31wPrBqq,0.696,0.453,0.718,0.108,0.255,-6.059,0.0696,160.326,0.873,18
+203,Golden Hits of S Janaki,8,1ZRRQ6gPyTwtMHlChTV6oD,Amma Ane Pilichi,spotify:track:1ZRRQ6gPyTwtMHlChTV6oD,0.571,0.363,0.428,0.0,0.352,-6.185,0.0329,187.525,0.516,15
+204,Golden Hits of S Janaki,9,3FNzZFzT79EDyBkrqgOpUz,Kadhile Kalamey,spotify:track:3FNzZFzT79EDyBkrqgOpUz,0.443,0.734,0.383,7.38e-05,0.182,-11.685,0.0418,104.039,0.648,15
+205,Golden Hits of S Janaki,10,087ltntd8IAzWAt1VT0BXK,Chittikoona (Happy),spotify:track:087ltntd8IAzWAt1VT0BXK,0.55,0.455,0.891,0.00116,0.375,-1.461,0.0844,110.918,0.811,13
+206,Golden Hits of S Janaki,11,0JVA6LBVHUUXvNxvD0rS2L,Manchu Kurise,spotify:track:0JVA6LBVHUUXvNxvD0rS2L,0.696,0.543,0.827,0.0255,0.123,1.094,0.0407,88.068,0.511,14
+207,Golden Hits of S Janaki,12,5llclXcmxT7eTwFKKhNG8j,Induvadana,spotify:track:5llclXcmxT7eTwFKKhNG8j,0.264,0.528,0.936,0.145,0.139,-5.651,0.175,102.23,0.639,29
+208,Golden Hits of S Janaki,13,3SnqJFMOLuvBHhzdZfFQMz,Sarasalu,spotify:track:3SnqJFMOLuvBHhzdZfFQMz,0.382,0.547,0.712,0.000123,0.504,-6.176,0.321,79.562,0.882,21
+209,Golden Hits of S Janaki,14,5a90HZi8hKb22XcxgzPqaa,Emauthundhi,spotify:track:5a90HZi8hKb22XcxgzPqaa,0.83,0.52,0.532,0.000697,0.4,-7.899,0.0317,82.861,0.562,13
+210,Golden Hits of S Janaki,15,1pGBT6FURZd6GLRby6IgxJ,Sande Poddula,spotify:track:1pGBT6FURZd6GLRby6IgxJ,0.633,0.538,0.674,2.27e-06,0.323,-5.248,0.0502,113.706,0.795,26
+211,Golden Hits of S Janaki,16,4yD32tCZF7oDXLQ93ywoRN,Om Namaha,spotify:track:4yD32tCZF7oDXLQ93ywoRN,0.834,0.799,0.756,0.233,0.068,-2.791,0.0323,109.562,0.772,12
+212,Golden Hits of S Janaki,17,3OHfXw1oz5AaeWX1FRzca7,Manasu Palike,spotify:track:3OHfXw1oz5AaeWX1FRzca7,0.514,0.71,0.598,0.0236,0.423,-4.375,0.035,121.107,0.616,12
+213,Golden Hits of S Janaki,18,5XzsexhUrPohJsKo8ImAp6,Kashmiri Loyalo,spotify:track:5XzsexhUrPohJsKo8ImAp6,0.793,0.586,0.617,8.41e-06,0.113,-5.865,0.0923,147.569,0.901,22
+214,Golden Hits of S Janaki,19,33gbY7XHeRPfwW9GYLi2rC,Jivvumani Kondagali,spotify:track:33gbY7XHeRPfwW9GYLi2rC,0.544,0.671,0.817,0.00998,0.112,-4.296,0.0854,136.087,0.71,19
+215,Golden Hits of S Janaki,20,4rzb2lPytL8XXADcm1W64z,Kanya Kumaari,spotify:track:4rzb2lPytL8XXADcm1W64z,0.763,0.523,0.645,0.000248,0.128,-6.64,0.0714,84.465,0.779,25
+216,Petta (Original Background Score),1,51U5TXf0Zqtp9Q0qs1XvNM,Church Fight,spotify:track:51U5TXf0Zqtp9Q0qs1XvNM,0.595,0.488,0.8,0.925,0.113,-4.085,0.0637,112.414,0.0857,35
+217,Petta (Original Background Score),2,66GwGKo3iBBEQ51sw1YFcj,Thalaivar Intro,spotify:track:66GwGKo3iBBEQ51sw1YFcj,0.755,0.649,0.927,0.985,0.542,-2.765,0.0683,114.523,0.605,32
+218,Petta (Original Background Score),3,6O1Dce8FbdLk68qtbvzRdk,Chef Kaali,spotify:track:6O1Dce8FbdLk68qtbvzRdk,0.805,0.626,0.815,0.0791,0.222,-2.608,0.032,157.827,0.937,15
+219,Petta (Original Background Score),4,4ak8eCTsu2wAv71w6gwxRQ,Itemkaaran,spotify:track:4ak8eCTsu2wAv71w6gwxRQ,0.824,0.463,0.519,0.93,0.101,-7.106,0.0419,133.048,0.125,23
+220,Petta (Original Background Score),5,3lA7cyqDXcWSonD0FuqrmA,Thalaivar Romance,spotify:track:3lA7cyqDXcWSonD0FuqrmA,0.792,0.397,0.513,0.73,0.109,-6.929,0.048,83.264,0.448,28
+221,Petta (Original Background Score),6,3cMQ75YTvn2VPN4NimePmo,Market Fight,spotify:track:3cMQ75YTvn2VPN4NimePmo,0.198,0.42,0.879,0.0956,0.112,-4.357,0.109,93.261,0.828,17
+222,Petta (Original Background Score),7,2ji3XdfdKKm4NkL0tMHuZ1,Nunchaku Theme,spotify:track:2ji3XdfdKKm4NkL0tMHuZ1,0.061,0.607,0.646,0.676,0.156,-4.426,0.0343,133.03,0.244,26
+223,Petta (Original Background Score),8,6KhGWEy4nJxGFa25AZyD4p,Kaali Helps in Love,spotify:track:6KhGWEy4nJxGFa25AZyD4p,0.707,0.34,0.481,0.959,0.315,-6.435,0.0474,150.738,0.0626,16
+224,Petta (Original Background Score),9,3erSGNZevNV24ksCDakTPV,Torchlight Fight,spotify:track:3erSGNZevNV24ksCDakTPV,0.208,0.436,0.944,0.561,0.217,-5.409,0.0515,133.067,0.83,17
+225,Petta (Original Background Score),10,2Y0XUDkmnC2A6rc7piT072,Revenge of Petta,spotify:track:2Y0XUDkmnC2A6rc7piT072,0.834,0.634,0.43,0.829,0.38,-8.781,0.0469,83.97,0.215,17
+226,Petta (Original Background Score),11,3mmpJkk0U2LtGnnf9FnsUQ,Petta Velan Intro,spotify:track:3mmpJkk0U2LtGnnf9FnsUQ,0.0383,0.589,0.923,0.859,0.129,-4.51,0.191,88.123,0.616,9
+227,Petta (Original Background Score),12,3Rt5H75v1QhHXNFav7Ede0,Anwar Is Born,spotify:track:3Rt5H75v1QhHXNFav7Ede0,0.746,0.144,0.281,0.944,0.119,-10.111,0.0323,179.55,0.101,16
+228,Petta (Original Background Score),13,3uOEtcu7Zx1LFC1O2oqkgy,Rhythm of Petta,spotify:track:3uOEtcu7Zx1LFC1O2oqkgy,0.552,0.619,0.953,0.893,0.193,-6.097,0.076,80.038,0.253,36
+229,Petta (Original Background Score),14,3tw6mrDyZRWuB9TRJ1wTup,Petta Theme Extended,spotify:track:3tw6mrDyZRWuB9TRJ1wTup,0.784,0.443,0.504,0.915,0.0954,-7.339,0.044,66.313,0.281,23
+230,Petta (Original Background Score),15,0GzVot2MOAMrc01LyYYW7J,Kutti Kadhai,spotify:track:0GzVot2MOAMrc01LyYYW7J,0.692,0.868,0.414,0.792,0.113,-10.633,0.127,133.052,0.0368,14
+231,Petta (Hindi) [Original Motion Picture Soundtrack],1,6eqoQ2ui3ZdlH1TsHk78pf,Mass Marudaan,spotify:track:6eqoQ2ui3ZdlH1TsHk78pf,0.471,0.562,0.894,8.11e-06,0.386,-5.226,0.326,168.389,0.718,11
+232,Petta (Hindi) [Original Motion Picture Soundtrack],2,5YM1e7qxBFS2EPORdjJbjm,Petta Theme - Instrumental,spotify:track:5YM1e7qxBFS2EPORdjJbjm,0.0166,0.668,0.774,0.869,0.081,-4.142,0.034,133.02,0.293,11
+233,Petta (Hindi) [Original Motion Picture Soundtrack],3,4bg5KqBk1F9N7DOYSaU3iH,Nazar Sarsari,spotify:track:4bg5KqBk1F9N7DOYSaU3iH,0.833,0.461,0.405,0.0,0.114,-9.84,0.0339,167.891,0.637,22
+234,Petta (Hindi) [Original Motion Picture Soundtrack],4,5cbcTeuTt1MbETJTuHZQsB,Madura Petta - Instrumental,spotify:track:5cbcTeuTt1MbETJTuHZQsB,0.182,0.626,0.944,0.952,0.0747,-4.414,0.183,87.972,0.869,3
+235,Petta (Hindi) [Original Motion Picture Soundtrack],5,2QH4Mb5hznnNc8WXORTUZx,Petta Paraak,spotify:track:2QH4Mb5hznnNc8WXORTUZx,0.00343,0.637,0.905,0.0,0.104,-6.916,0.0749,96.975,0.842,7
+236,Petta (Hindi) [Original Motion Picture Soundtrack],6,2iQOagHL2i6eV7BuW6ROcS,Singaar Singh - Instrumental,spotify:track:2iQOagHL2i6eV7BuW6ROcS,0.372,0.777,0.721,0.809,0.149,-7.454,0.173,80.106,0.153,5
+237,Petta (Hindi) [Original Motion Picture Soundtrack],7,1JQm7czQE8LLDLqNahqteu,Ye Shadiyaana,spotify:track:1JQm7czQE8LLDLqNahqteu,0.199,0.711,0.839,0.0,0.0346,-5.058,0.187,146.886,0.94,3
+238,Petta (Hindi) [Original Motion Picture Soundtrack],8,4bybGzUzVoX9Q4aKeoOW8x,Jithu Theme - Instrumental,spotify:track:4bybGzUzVoX9Q4aKeoOW8x,0.0163,0.723,0.583,0.811,0.0864,-7.28,0.0461,96.963,0.35,4
+239,Petta (Hindi) [Original Motion Picture Soundtrack],9,5at5dUy4DlO7rnk8SlF0sB,Ullaalla,spotify:track:5at5dUy4DlO7rnk8SlF0sB,0.435,0.466,0.799,0.0,0.0497,-4.184,0.413,68.968,0.646,6
+240,Petta (Hindi) [Original Motion Picture Soundtrack],10,3bOnh6Y831UGbAHGZosoE4,Kaali Theme - Instrumental,spotify:track:3bOnh6Y831UGbAHGZosoE4,0.13,0.755,0.86,0.388,0.464,-6.137,0.0684,112.524,0.745,5
+241,Petta (Hindi) [Original Motion Picture Soundtrack],11,1yASgPMTfhaSeHPvLxIP7p,Thappad Maara,spotify:track:1yASgPMTfhaSeHPvLxIP7p,0.273,0.687,0.741,6.98e-06,0.0961,-7.804,0.222,88.024,0.931,2
+242,Petta (Telugu) [Original Motion Picture Soundtrack],1,1Nh7gea2bnOt9i3HQI1JCB,"Massu Maranam - From ""Petta (Telugu)""",spotify:track:1Nh7gea2bnOt9i3HQI1JCB,0.415,0.468,0.866,2.15e-06,0.652,-5.857,0.384,83.787,0.732,44
+243,Petta (Telugu) [Original Motion Picture Soundtrack],2,3WN6SWPafko5ljcr2xshkI,Petta Theme - Telugu,spotify:track:3WN6SWPafko5ljcr2xshkI,0.0158,0.675,0.775,0.882,0.0807,-4.141,0.0339,133.027,0.301,26
+244,Petta (Telugu) [Original Motion Picture Soundtrack],3,5OerghkmXwFdPVFxYjckHk,Peydhavi Chivarakey,spotify:track:5OerghkmXwFdPVFxYjckHk,0.872,0.541,0.431,0.0,0.108,-8.984,0.0561,167.679,0.562,35
+245,Petta (Telugu) [Original Motion Picture Soundtrack],4,1z8YCxj9MixtzjOawn8ROv,Vizag Petta,spotify:track:1z8YCxj9MixtzjOawn8ROv,0.182,0.53,0.944,0.95,0.0748,-4.423,0.164,87.813,0.858,19
+246,Petta (Telugu) [Original Motion Picture Soundtrack],5,7isupIME5Sr6BgyG8TlDVT,Petta Paraak - Telugu,spotify:track:7isupIME5Sr6BgyG8TlDVT,0.00554,0.651,0.915,4.2e-06,0.0987,-6.476,0.0771,96.978,0.816,26
+247,Petta (Telugu) [Original Motion Picture Soundtrack],6,35EwlXJIoy81Wx8rZ9xc8A,Simhaasalam Singh,spotify:track:35EwlXJIoy81Wx8rZ9xc8A,0.375,0.787,0.718,0.854,0.147,-7.426,0.178,80.012,0.157,19
+248,Petta (Telugu) [Original Motion Picture Soundtrack],7,7494Bdx32XHqwVTF3vdzjr,Aaha Kalyanam - Telugu,spotify:track:7494Bdx32XHqwVTF3vdzjr,0.339,0.779,0.846,1.29e-06,0.0348,-3.715,0.157,146.942,0.931,18
+249,Petta (Telugu) [Original Motion Picture Soundtrack],8,58JlIPWPjm6o4oKL1qONT7,Jithu Theme - Telugu,spotify:track:58JlIPWPjm6o4oKL1qONT7,0.0155,0.721,0.582,0.81,0.0838,-7.289,0.0461,96.976,0.357,15
+250,Petta (Telugu) [Original Motion Picture Soundtrack],9,0aL09fbrXMMkMX9JYYmSjZ,Ullaalla - Telugu,spotify:track:0aL09fbrXMMkMX9JYYmSjZ,0.538,0.549,0.834,2.93e-05,0.0622,-4.033,0.37,99.776,0.644,23
+251,Petta (Telugu) [Original Motion Picture Soundtrack],10,68FH2U7DnNQxFyOtfB6LUe,Kaali Theme - Telugu,spotify:track:68FH2U7DnNQxFyOtfB6LUe,0.133,0.753,0.857,0.405,0.456,-6.152,0.0686,112.522,0.746,19
+252,Petta (Telugu) [Original Motion Picture Soundtrack],11,5btpZTecHEfyLbJMdz6zh2,"Thappad Maara - From ""Petta""",spotify:track:5btpZTecHEfyLbJMdz6zh2,0.274,0.681,0.739,8.34e-06,0.11,-7.803,0.22,88.018,0.932,14
+253,Petta (Original Motion Picture Soundtrack),1,7j7fS14vlwVk0Pfnr0hovC,"Marana Mass - From ""Petta""",spotify:track:7j7fS14vlwVk0Pfnr0hovC,0.47,0.471,0.873,8.13e-05,0.146,-5.503,0.373,78.434,0.737,56
+254,Petta (Original Motion Picture Soundtrack),2,5fyz50nzC0a96r7UAd2Y5f,"Petta Theme - From ""Petta""",spotify:track:5fyz50nzC0a96r7UAd2Y5f,0.0158,0.677,0.824,0.727,0.0867,-3.939,0.0367,133.017,0.334,45
+255,Petta (Original Motion Picture Soundtrack),3,4IUGuoJ41g5fLIqsO1MJoU,"Ilamai Thirumbudhe - From ""Petta""",spotify:track:4IUGuoJ41g5fLIqsO1MJoU,0.719,0.395,0.425,0.0,0.175,-7.616,0.0625,167.863,0.457,53
+256,Petta (Original Motion Picture Soundtrack),4,54fHwcpMX37DJPHEecWtie,"Madura Petta - From ""Petta""",spotify:track:54fHwcpMX37DJPHEecWtie,0.182,0.646,0.944,0.948,0.0748,-4.418,0.168,87.987,0.864,33
+257,Petta (Original Motion Picture Soundtrack),5,3r00sgm8aoOg6RyWR4t8hr,"Petta Paraak - From ""Petta""",spotify:track:3r00sgm8aoOg6RyWR4t8hr,0.0196,0.655,0.971,5.61e-06,0.0724,-5.574,0.076,96.997,0.711,43
+258,Petta (Original Motion Picture Soundtrack),6,3eeNqfTnLWZWB5OJeTPycn,"Singaar Singh Theme - From ""Petta""",spotify:track:3eeNqfTnLWZWB5OJeTPycn,0.374,0.788,0.72,0.824,0.144,-7.427,0.171,80.014,0.175,37
+259,Petta (Original Motion Picture Soundtrack),7,6AkFPJaJN6pPCeVGbf23Lu,"Aaha Kalyanam - From ""Petta""",spotify:track:6AkFPJaJN6pPCeVGbf23Lu,0.216,0.79,0.87,3.51e-05,0.0287,-3.2,0.156,146.847,0.938,41
+260,Petta (Original Motion Picture Soundtrack),8,7fz6eGLO6l7KCZnQtPvXuJ,"Jithu Theme - From ""Petta""",spotify:track:7fz6eGLO6l7KCZnQtPvXuJ,0.0154,0.721,0.581,0.829,0.084,-7.288,0.0463,96.976,0.358,31
+261,Petta (Original Motion Picture Soundtrack),9,2LLZkWMReCWhgTrHuRh6dV,"Ullaallaa - From ""Petta""",spotify:track:2LLZkWMReCWhgTrHuRh6dV,0.403,0.536,0.814,1.08e-05,0.0501,-4.504,0.282,99.774,0.704,53
+262,Petta (Original Motion Picture Soundtrack),10,61uPaVyWRi1HykhNR5Ldtw,"Kaali Theme - From ""Petta""",spotify:track:61uPaVyWRi1HykhNR5Ldtw,0.13,0.753,0.859,0.402,0.455,-6.135,0.0641,112.519,0.765,39
+263,Petta (Original Motion Picture Soundtrack),11,2xgCGwiUEt8Z5AsWnwI5ba,"Thappad Maara - From ""Petta""",spotify:track:2xgCGwiUEt8Z5AsWnwI5ba,0.269,0.691,0.739,8.23e-06,0.102,-7.803,0.222,88.033,0.931,31
+264,Bromance: Anirudh Ravichander & Sivakarthikeyan,1,6XBBucuO6AxPG7SCu4DiXe,"Karuthavanlaam Galeejaam (From ""Velaikkaran"")",spotify:track:6XBBucuO6AxPG7SCu4DiXe,0.209,0.67,0.94,0.0,0.346,-4.404,0.308,89.95,0.474,37
+265,Bromance: Anirudh Ravichander & Sivakarthikeyan,2,3vyUBPsQk79JclLPUdu3p5,"Darling Dambakku (From ""Maan Karate"")",spotify:track:3vyUBPsQk79JclLPUdu3p5,0.341,0.736,0.942,9.42e-05,0.192,-4.46,0.185,120.157,0.944,14
+266,Bromance: Anirudh Ravichander & Sivakarthikeyan,3,7b5bjFWOnVs18zSAb5GqHT,"Tamilselvi (From ""Remo"")",spotify:track:7b5bjFWOnVs18zSAb5GqHT,0.0798,0.696,0.931,5.89e-06,0.234,-4.089,0.0636,89.972,0.847,16
+267,Bromance: Anirudh Ravichander & Sivakarthikeyan,4,7uJU7tEhOrmAS80goGcmGK,"Maanja (From ""Maan Karate"")",spotify:track:7uJU7tEhOrmAS80goGcmGK,0.447,0.684,0.75,4.15e-06,0.0919,-4.952,0.161,159.946,0.919,21
+268,Bromance: Anirudh Ravichander & Sivakarthikeyan,5,3LJF3T6ZcrmBFLWFOLvaW3,"Senjitaley (From ""Remo"")",spotify:track:3LJF3T6ZcrmBFLWFOLvaW3,0.476,0.655,0.941,3.22e-06,0.215,-5.185,0.14,88.073,0.344,18
+269,Bromance: Anirudh Ravichander & Sivakarthikeyan,6,1ifPGkfVkbSFUpWrWGZ19B,"Iraiva (From ""Velaikkaran"")",spotify:track:1ifPGkfVkbSFUpWrWGZ19B,0.198,0.571,0.729,0.0,0.103,-5.603,0.0481,140.062,0.378,25
+270,Bromance: Anirudh Ravichander & Sivakarthikeyan,7,3oWdVmZSm0mNlD8Cn5X4BK,"Boomi Enna Suthudhe (From ""Ethir Neechal"")",spotify:track:3oWdVmZSm0mNlD8Cn5X4BK,0.415,0.347,0.584,0.0,0.145,-6.279,0.0495,79.813,0.777,32
+271,Bromance: Anirudh Ravichander & Sivakarthikeyan,8,3ANdXA3fmb6fJB1yTUarm0,"Un Vizhigalil (From ""Maan Karate"")",spotify:track:3ANdXA3fmb6fJB1yTUarm0,0.379,0.502,0.625,0.0,0.198,-5.631,0.0309,80.217,0.442,20
+272,Bromance: Anirudh Ravichander & Sivakarthikeyan,9,6twWhQ2lyIIcUvlCWXnLVR,"Velicha Poove (From ""Ethir Neechal"")",spotify:track:6twWhQ2lyIIcUvlCWXnLVR,0.444,0.526,0.701,2.74e-06,0.0883,-6.574,0.0552,79.744,0.683,19
+273,Bromance: Anirudh Ravichander & Sivakarthikeyan,10,1pW6zMKlSSYM2tDEvUeI2S,"Ezhu Velaikkara (From ""Velaikkaran"")",spotify:track:1pW6zMKlSSYM2tDEvUeI2S,0.283,0.594,0.886,4.14e-05,0.0772,-5.404,0.101,120.016,0.382,15
+274,Bromance: Anirudh Ravichander & Sivakarthikeyan,11,3KrKkY581OwameSpuutY6H,"Ethir Neechal (From ""Ethir Neechal"")",spotify:track:3KrKkY581OwameSpuutY6H,0.0556,0.752,0.97,1.21e-06,0.0999,-4.167,0.0943,119.97,0.537,43
+275,Bromance: Anirudh Ravichander & Sivakarthikeyan,12,4eCWv5tMzDCubpNdCxv5It,"Remo Nee Kadhalan (From ""Remo"")",spotify:track:4eCWv5tMzDCubpNdCxv5It,0.121,0.676,0.93,7.41e-05,0.488,-5.145,0.0489,135.055,0.758,10
+276,Mass Level : Anirudh Ravichander,1,4xrQvV9wS56AUDrCKkUP3U,"Thalai Viduthalai (From ""Vivegam"")",spotify:track:4xrQvV9wS56AUDrCKkUP3U,0.00145,0.371,0.934,9.2e-06,0.342,-4.202,0.115,103.558,0.598,14
+277,Mass Level : Anirudh Ravichander,2,0J1bsJMzIKbxikmGnpIHMK,"Aaluma Doluma (From ""Vedalam"")",spotify:track:0J1bsJMzIKbxikmGnpIHMK,0.0764,0.544,0.917,1.15e-06,0.346,-5.853,0.201,160.672,0.638,19
+278,Mass Level : Anirudh Ravichander,3,3zqHjFN4wHB7MLYdcMFdWB,"Maari Thara Local (From ""Maari"") - Here Comes Maari",spotify:track:3zqHjFN4wHB7MLYdcMFdWB,0.622,0.709,0.956,1.1e-06,0.0982,-4.695,0.255,94.945,0.664,42
+279,Mass Level : Anirudh Ravichander,4,2eDq7bopcVDmcd5v2nNCwh,"Surviva (From ""Vivegam"") (feat. Yogi B & Mali)",spotify:track:2eDq7bopcVDmcd5v2nNCwh,0.137,0.608,0.919,0.000276,0.243,-7.203,0.0758,160.029,0.728,12
+280,Mass Level : Anirudh Ravichander,5,4I8GaABhCmswKIWm4zyd5n,"Remo Nee Kadhalan (From ""Remo"")",spotify:track:4I8GaABhCmswKIWm4zyd5n,0.121,0.676,0.93,7.41e-05,0.488,-5.145,0.0489,135.055,0.758,10
+281,Mass Level : Anirudh Ravichander,6,08MhVmbdGEibPERZVagSNF,"Bagulu Odayum Dagulu Mari (From ""Maari"") - The Return of Maari",spotify:track:08MhVmbdGEibPERZVagSNF,0.747,0.64,0.911,2.88e-05,0.142,-7.042,0.0857,89.993,0.707,27
+282,Mass Level : Anirudh Ravichander,7,20WilMrcmaaHChKpcrUrq6,"Local Boys (From ""Ethir Neechal"")",spotify:track:20WilMrcmaaHChKpcrUrq6,0.0182,0.68,0.86,0.0,0.563,-4.061,0.0497,90.015,0.565,36
+283,Mass Level : Anirudh Ravichander,8,3JVeIDHL6aTmndoKUBSM5Q,"Royapuram Peter (From ""Maan Karate"")",spotify:track:3JVeIDHL6aTmndoKUBSM5Q,0.606,0.398,0.942,0.0,0.344,-4.118,0.41,75.086,0.765,11
+284,Mass Level : Anirudh Ravichander,9,11NwzVdccEHH42pmjg0QIx,"Why This Kolaveri Di? (From ""3"") - The Soup of Love",spotify:track:11NwzVdccEHH42pmjg0QIx,0.543,0.816,0.774,1.58e-05,0.394,-4.341,0.153,140.016,0.884,17
+285,Mass Level : Anirudh Ravichander,10,4UVU3MOYHnvorBJAibbDBm,"Daavuya (From ""Remo"")",spotify:track:4UVU3MOYHnvorBJAibbDBm,0.311,0.579,0.835,4.47e-06,0.216,-4.436,0.193,124.083,0.437,8
